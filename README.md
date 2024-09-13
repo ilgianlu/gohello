@@ -1,6 +1,6 @@
 # gohello
 
-adding something ho
+adding something oh so cool
 
 ## sdasdasd
 
